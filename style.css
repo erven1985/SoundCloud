@@ -1,0 +1,92 @@
+button {
+	background-image:url(http://www.my-hd-wallpapers.com/wall/1412230740_multicolor-waves-abstract_800.jpg);
+	background-size: cover;
+	color: white;
+	width: 100px;
+	height: 30px;
+	border-radius: 50px;
+	font-size: 10px;
+	box-shadow: 0 0 10px #999;
+	font-weight: bold;
+	margin:0px 12px;
+	opacity: 0;
+
+}
+body {
+	width: 1200px;
+	height: auto;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 10%;
+	background-image: url(http://www.kemecer.com/i/cool-music-wallpapers-photo.jpg);
+	background-size: cover;
+	color:white;
+}	
+audio {
+	width: 900px;
+	box-shadow:0 0 10px #999;
+	margin-bottom: 30px;
+}	
+#anime {
+	width: 900px;
+	height: 60px;
+	margin: 20px auto;
+	background-image:url(speaker.jpg);
+	background-size: cover;
+	border-radius: 50px;
+	box-shadow: 0 0 10px white;
+	position: relative;
+}
+h1 {
+	text-shadow: 0 0 15px white;
+	opacity:0;	
+	font-size: 40px;
+	
+} 
+#name {
+		text-shadow: 0 0 15px white;
+		opacity:0;	
+		position: absolute;
+		left: 0px;
+
+} 
+
+h2 {
+	width: 900px;
+}
+
+#start {
+	position: absolute; 
+	top:800px;
+	left:155px;
+}
+
+#pause {
+	position: absolute; 
+	top: 800px;
+	left:312px
+}
+
+#next {
+	position: absolute; 
+	top: 800px;
+	left:470px
+}
+
+#shuffle {
+	position: absolute; 
+	top: 800px;
+	left:630px
+}
+
+#up {
+	position: absolute; 
+	top: 800px;
+	left:789px
+}
+
+#down {
+	position: absolute; 
+	top: 800px;
+	left:940px
+}
